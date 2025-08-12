@@ -17,7 +17,7 @@ This project demonstrates **Core Java concepts** such as **OOP, Collections, Fil
 - **Exception Handling**
 - **IntelliJ IDEA** (Community Edition)
 
-## Sample menu output
+## Sample Menu Output
 Student Management System 
 1. Add Student
 2. View Students
